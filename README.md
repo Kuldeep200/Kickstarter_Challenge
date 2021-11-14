@@ -3,9 +3,7 @@
 ## Overview of Project
 Louise’s fundraising goal.
 ### Purpose
-learning Excel data set. As we know, Excel is used by all Organizations areas, including from household budgeting to complicated financial analysis. 
-Learning from the detail of Excel will draw on skills we may have already, like computer literacy, and data literacy. 
-Including advanced Excel features formulas, charts, and pivot tables
+To Help Lousie to get data for Successful,failed, and cancelled campagin.
 
 ## Analysis and Challenges
 ----Import data into a table for analysis.
@@ -29,6 +27,8 @@ less than 1000
 40000 to 44999
 45000 to 49999
 greater than 50000
+
+Used Conf funcation to create get the outcome , and used piviot table.
 ### Challenges and Difficulties Encountered
 had to split sub category,spliting ranges in excel
 
